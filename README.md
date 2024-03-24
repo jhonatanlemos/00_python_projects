@@ -1,2 +1,2 @@
-# python-projects
+# python-repo
 Repository used to register python projects
